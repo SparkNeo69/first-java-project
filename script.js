@@ -1,3 +1,5 @@
+// this is first tutorial js file by jonas
+// Basic Java Script fundamentals
 /*****************************
 * Variables and data types
 */
